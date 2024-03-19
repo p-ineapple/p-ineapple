@@ -17,7 +17,7 @@
 
 - I am a Term 2 in Singapore University of Technology and Design <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔭 I'm currently learning Linear Algebra and Algorithms and Data Structures!
-- 💃 Funfact: I’m learning Hip Hop in University!
+- 💃 Funfact: I’m like to dance Hip Hop!
 - :mailbox:How to reach me: @elppaenips on telegram
 ---
 
