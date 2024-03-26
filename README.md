@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="100"/>
 </div>
 
 <div align="center">
@@ -7,11 +7,10 @@
 </div>
 <h1>
   hey there! this read me is in progress but feel free to browse!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
   
-  <img src="https://tenor.com/en-SG/view/me-it-tech-technician-booty-gif-7476464" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt0MzVzeWtta3ZzcGYxejFtdXBiN2R3MnR2MHpqdndubTA4aHJjNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mBLYrKaZJACmtum22X/giphy.gif" width="600" />
 </div>
 
 ## :woman_technologist: About Me :
