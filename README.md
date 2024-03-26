@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=p-ineapple&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
-  hey there this read me is in progress but feel free to browse!
+  hey there! this read me is in progress but feel free to browse!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -15,7 +15,7 @@
 
 ## :woman_technologist: About Me :
 
-- I am a Term 2 in Singapore University of Technology and Design <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- I am a Term 2 Student in Singapore University of Technology and Design <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔭 I'm currently learning Linear Algebra and Algorithms and Data Structures!
 - 💃 Funfact: I’m like to dance Hip Hop!
 - :mailbox:How to reach me: @elppaenips on telegram
