@@ -15,9 +15,9 @@
 
 ## :woman_technologist: About Me :
 
-- I am a Term 2 Student in Singapore University of Technology and Design <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🔭 I'm currently learning Linear Algebra and Algorithms and Data Structures!
-- 💃 Funfact: I’m like to dance Hip Hop!
+- I am a Term 4 Student in Singapore University of Technology and Design <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I'm currently learning Computational Structures, Algorithms and Information systems!
+- 💃 I'm learning HipHop!
 - :mailbox:How to reach me: @elppaenips on telegram
 ---
 
