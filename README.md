@@ -32,7 +32,8 @@
 ---
 
 ### :fire: My Stats :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Gavi-and-her-Dinosaur-Cats&show_icons=true&theme=dracula)](https://github.com/p-ineapple/Gavi-and-her-Dinosaur-Cats)
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Modulus&show_icons=true&theme=monokai)
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=gavi&show_icons=true&theme=monokai)
+![Repo](https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Gavi&show_icons=true&theme=monokai)
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=CapstoneprojectFinal&show_icons=true&theme=monokai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-ineapple&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
