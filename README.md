@@ -36,5 +36,5 @@
 ### :fire: My Stats :
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=CapstoneprojectFinal&show_icons=true&theme=monokai)
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=gavi&show_icons=true&theme=monokai)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=p-ineapple&theme=dark&background=000000)](https://git.io/streak-stats)
+![Repo](https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Modulus&show_icons=true&theme=monokai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-ineapple&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
