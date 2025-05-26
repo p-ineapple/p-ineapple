@@ -32,7 +32,4 @@
 ---
 
 ### :fire: My Stats :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Modulus&theme=dracula)](https://github.com/p-ineapple/Modulus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Gavi-and-her-Dinosaur-Cats&theme=dracula)](https://github.com/p-ineapple/Gavi-and-her-Dinosaur-Cats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=CapstoneprojectFinal&theme=dracula)](https://github.com/p-ineapple/CapstoneprojectFinal)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-ineapple&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
