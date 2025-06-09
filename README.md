@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="100"/>
 </div>
 <h1>
-  Hey there I'm Queenie! This read me is in progress but feel free to browse!
+  Hey there I'm Queenie!
 </h1>
 <div align="center">
   
@@ -32,6 +32,7 @@
 ---
 
 ### :fire: My Stats :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Modulus&theme=dracula&cache_bust=1)](https://github.com/p-ineapple/Personal-Website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Modulus&theme=dracula&cache_bust=1)](https://github.com/p-ineapple/Modulus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Gavi-and-her-Dinosaur-Cats&theme=dracula&cache_bust=1)](https://github.com/p-ineapple/Gavi-and-her-Dinosaur-Cats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=CapstoneprojectFinal&theme=dracula)](https://github.com/p-ineapple/CapstoneprojectFinal)
