@@ -4,6 +4,7 @@
 <h1>
   Hey there I'm Queenie!
 </h1>
+<h2>Visit my personal website: https://queenie-li.vercel.app/</h2>
 <div align="center">
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt0MzVzeWtta3ZzcGYxejFtdXBiN2R3MnR2MHpqdndubTA4aHJjNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mBLYrKaZJACmtum22X/giphy.gif" width="600" />
