@@ -1,5 +1,8 @@
-<div id="header" align="center">
+<!-- div id="header" align="center">
   <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="100"/>
+</div -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt0MzVzeWtta3ZzcGYxejFtdXBiN2R3MnR2MHpqdndubTA4aHJjNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mBLYrKaZJACmtum22X/giphy.gif" width="600" />
 </div>
 <h1>
   Hey there I'm Queenie!
@@ -7,11 +10,6 @@
 <!-- h2>
   Visit my personal website: https://queenie-li.vercel.app/
 </h2 -->
-
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt0MzVzeWtta3ZzcGYxejFtdXBiN2R3MnR2MHpqdndubTA4aHJjNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mBLYrKaZJACmtum22X/giphy.gif" width="600" />
-</div>
 
 ### :woman_technologist: About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently a Year 3 Computer Science student at SUTD 
