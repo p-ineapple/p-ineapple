@@ -4,17 +4,20 @@
 <h1>
   Hey there I'm Queenie!
 </h1>
-<!-- <h2>Visit my personal website: https://queenie-li.vercel.app/</h2> -->
+<!-- h2>
+  Visit my personal website: https://queenie-li.vercel.app/
+</h2 -->
+
 <div align="center">
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt0MzVzeWtta3ZzcGYxejFtdXBiN2R3MnR2MHpqdndubTA4aHJjNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mBLYrKaZJACmtum22X/giphy.gif" width="600" />
 </div>
-<!-- :mailbox:How to reach me: @elppaenips on telegram -->
-## :woman_technologist: About Me :
 
-- I am currently a Year 3 Computer Science student at SUTD <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🔭 I'm currently learning Computer Vision, NLP
+### :woman_technologist: About Me :
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently a Year 3 Computer Science student at SUTD 
+- 📚 I'm currently learning Computer Vision, NLP
 - 💃 In my free time I like to dance, my favourite genres are HipHop and Breaking!
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
